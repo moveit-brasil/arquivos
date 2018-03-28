@@ -1,6 +1,6 @@
-@import url("https://moveitbrasil.ga/wp-content/themes/hashone/plug/style.css");
-@import url("https://moveitbrasil.ga/users/");
-@import url("https://moveitbrasil.ga/niver-icone/");
+@import url("https://moveit-brasil.github.io/arquivos/style.css");
+@import url("https://moveit-brasil.github.io/arquivos/users.css");
+@import url("https://moveit-brasil.github.io/arquivos/niver-icone.css");
 @import url("https://fonts.googleapis.com/css?family=Ubuntu:500");
 
 #dj-button span {
@@ -15,7 +15,7 @@ background: linear-gradient(135deg,rgb(172, 118, 255) 1%,rgba(172, 118, 255, 0.3
 }
 /* Icones */
 .icon {
-    background-image: url("https://moveitbrasil.ga/wp-content/themes/mib/images/icons2.png")}
+    background-image: url("https://moveit-brasil.github.io/arquivos/icons.png")}
 
 /* ------------------------------------------------------------------ */
 /* MoveItBot */
