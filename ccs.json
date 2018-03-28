@@ -2,7 +2,7 @@
 	"room": "Move It! - Brasil",
 	"author": "Shadow Slayer",
 	"icon": null,
-	"css": "https://moveitbrasil.ga/wp-content/themes/hashone/plug/room_theme.css",
+	"css": "https://moveit-brasil.github.io/arquivos/room_theme.css",
 	"rules": {
 		"allowAutorespond": true,
 		"allowAutowoot": true,
@@ -27,8 +27,8 @@
 		"user": "#797a7d"
 	},
 	"images": {
-		"background": "https://raw.githubusercontent.com/moveit-brasil/arquivos/master/bgpadrao.jpg",
-		"playback": "https://raw.githubusercontent.com/moveit-brasil/arquivos/master/playback.png",
+		"background": "https://moveit-brasil.github.io/arquivos/bgpadrao.jpg",
+		"playback": "https://moveit-brasil.github.io/arquivos/playback.png",
 		"admin": null,
 		"ambassador": null,
 		"host": "",
